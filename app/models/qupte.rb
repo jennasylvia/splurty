@@ -1,0 +1,2 @@
+class Qupte < ApplicationRecord
+end
